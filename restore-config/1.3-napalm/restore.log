@@ -1,0 +1,6 @@
+Failed to restore configuration to device 192.168.1.9 from I:\02_Job\python\Python_networking\python-scripts\backup-config\1.2-netmiko\R1_2026-02-14_16-20-28.txt: SCP file transfers are not enabled. Configure 'ip scp server enable' on the device.
+Failed to restore configuration to device 192.168.1.9 from I:\02_Job\python\Python_networking\python-scripts\backup-config\1.2-netmiko\R1_2026-02-14_16-20-28.txt: SCP file transfers are not enabled. Configure 'ip scp server enable' on the device.
+Failed to restore configuration to device 192.168.1.9 from I:\02_Job\python\Python_networking\python-scripts\backup-config\1.3-napalm\R3_2026-02-14.txt: SCP file transfers are not enabled. Configure 'ip scp server enable' on the device.
+Failed to restore configuration to device 192.168.1.9 from I:\02_Job\python\Python_networking\python-scripts\backup-config\1.3-napalm\R3_2026-02-14.txt: napalm-ios replace() requires Cisco 'archive' feature to be enabled
+Failed to restore configuration to device 192.168.1.9 from I:\02_Job\python\Python_networking\python-scripts\backup-config\1.3-napalm\R1_2026-02-14_16-35-16.txt: napalm-ios replace() requires Cisco 'archive' feature to be enabled
+Successfully restored configuration to device 192.168.1.9 from I:\02_Job\python\Python_networking\python-scripts\backup-config\1.3-napalm\R1_2026-02-14_16-35-16.txt

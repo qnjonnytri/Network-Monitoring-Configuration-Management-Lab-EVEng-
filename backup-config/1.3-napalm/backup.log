@@ -1,0 +1,13 @@
+Successfully backed up configuration of device 192.168.1.18 at 2026-02-13 18:24:23.941531 to R1_2026-02-13_18-24-23.txt
+Successfully backed up configuration of device 192.168.1.18 at 2026-02-14 16:08:35.387726 to R1_2026-02-14_16-08-35.txt
+Successfully backed up configuration of device 192.168.1.18 at 2026-02-14 16:15:59.727642 to R1_2026-02-14_16-15-59.txt
+Successfully backed up configuration of device 192.168.1.18 at 2026-02-14 16:18:49.086182 to R1_2026-02-14_16-18-49.txt
+Failed to backup configuration of device 192.168.1.9 at 2026-02-14 16:28:41.118411: Cannot import "cisco_ios". Is the library installed?
+Failed to backup configuration of device 192.168.1.28 at 2026-02-14 16:28:41.130466: Cannot import "cisco_ios". Is the library installed?
+Failed to backup configuration of device 192.168.1.29 at 2026-02-14 16:28:41.136889: Cannot import "cisco_ios". Is the library installed?
+Failed to backup configuration of device 192.168.1.9 at 2026-02-14 16:31:53.593483: Cannot import "cisco_ios". Is the library installed?
+Failed to backup configuration of device 192.168.1.28 at 2026-02-14 16:31:53.598017: Cannot import "cisco_ios". Is the library installed?
+Failed to backup configuration of device 192.168.1.29 at 2026-02-14 16:31:53.600956: Cannot import "cisco_ios". Is the library installed?
+Successfully backed up configuration of device 192.168.1.9 at 2026-02-14 16:35:16.547475 to R1_2026-02-14_16-35-16.txt
+Successfully backed up configuration of device 192.168.1.28 at 2026-02-14 16:35:19.447129 to R2_2026-02-14_16-35-19.txt
+Successfully backed up configuration of device 192.168.1.29 at 2026-02-14 16:35:22.973237 to R3_2026-02-14_16-35-22.txt

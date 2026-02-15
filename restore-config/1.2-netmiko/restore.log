@@ -1,0 +1,31 @@
+Failed to restore configuration to device 192.168.1.9 from I:\02_Job\python\Python_networking\python-scripts\backup-config\1.2-netmiko\R3_2026-02-14.txt: 
+
+Pattern not detected: 'R1.*' in output.
+
+Things you might try to fix this:
+1. Adjust the regex pattern to better identify the terminating string. Note, in
+many situations the pattern is automatically based on the network device's prompt.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+Failed to restore configuration to device 192.168.1.9 from I:\02_Job\python\Python_networking\python-scripts\backup-config\1.2-netmiko\R3_2026-02-14.txt: BaseConnection.send_config_set() got an unexpected keyword argument 'expect_string'
+Successfully restored configuration to device 192.168.1.9 from I:\02_Job\python\Python_networking\python-scripts\backup-config\1.2-netmiko\R3_2026-02-14.txt
+Failed to restore configuration to device 192.168.1.9 from I:\02_Job\python\Python_networking\python-scripts\backup-config\1.2-netmiko\R1_2026-02-14.txt: 
+
+Pattern not detected: 'R3.*' in output.
+
+Things you might try to fix this:
+1. Adjust the regex pattern to better identify the terminating string. Note, in
+many situations the pattern is automatically based on the network device's prompt.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+Successfully restored configuration to device 192.168.1.9 from I:\02_Job\python\Python_networking\python-scripts\backup-config\1.2-netmiko\R1_2026-02-14.txt
+Successfully restored configuration to device 192.168.1.9 from I:\02_Job\python\Python_networking\python-scripts\backup-config\1.2-netmiko\R1_2026-02-14_16-20-28.txt
+Successfully restored configuration to device 192.168.1.9 from I:\02_Job\python\Python_networking\python-scripts\backup-config\1.2-netmiko\R1_2026-02-14_16-20-28.txt
+Successfully restored configuration to device 192.168.1.28 from I:\02_Job\python\Python_networking\python-scripts\backup-config\1.2-netmiko\R2_2026-02-14.txt
+Successfully restored configuration to device 192.168.1.29 from I:\02_Job\python\Python_networking\python-scripts\backup-config\1.2-netmiko\R3_2026-02-14.txt
